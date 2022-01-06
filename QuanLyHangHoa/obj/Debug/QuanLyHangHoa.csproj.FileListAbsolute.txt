@@ -1,0 +1,35 @@
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe.config
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.pdb
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\zxing.dll
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\zxing.presentation.dll
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.DatMuaSP.resources
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Form1.resources
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.FrmThanhToan.resources
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Properties.Resources.resources
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.QLXuatHang.resources
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.QLNhapHang.resources
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.QL_HangHoa.resources
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.GenerateResource.cache
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.CoreCompileInputs.cache
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.CopyComplete
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
+G:\My Drive\Project\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe.config
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.pdb
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\zxing.dll
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\zxing.presentation.dll
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.DatMuaSP.resources
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Form1.resources
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.FrmThanhToan.resources
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Properties.Resources.resources
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.QLXuatHang.resources
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.QLNhapHang.resources
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.QL_HangHoa.resources
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.CopyComplete
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
+C:\Users\ACER\Desktop\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb

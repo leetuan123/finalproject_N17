@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eAz+LnlHtfw6BDf3JgHzEPdgtiGEyWzCNYGPOet7GN4hvy8fqoCgL0ir+twbIU4y5Z4uvGzJZ5FTN8QrwF2jEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\QuanLyHangHoa\\QuanLyHangHoa\\QuanLyHangHoa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\zxing.net\\0.16.7\\zxing.net.0.16.7.nupkg.sha512"
+  ],
+  "logs": []
+}
